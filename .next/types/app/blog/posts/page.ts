@@ -1,4 +1,4 @@
-// File: /Users/sandramada/Desktop/learning-nextjs--codespaces--5914444/exercise-files/03/03_01/src/app/blog/posts/page.tsx
+// File: C:\Users\Desktop\Desktop\tutorial\nextTutorial\learning-nextjs--codespaces--5914444-08_03e\learning-nextjs--codespaces--5914444-08_03e\exercise-files\03\03_01\src\app\blog\posts\page.tsx
 import * as entry from '../../../../../src/app/blog/posts/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
